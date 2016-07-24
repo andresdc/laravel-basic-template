@@ -1,2 +1,3 @@
-# laravel-basic-template
-Basic Template For Laravel
+# Laravel 5.2 Installation
+
+* Install compser for windows
