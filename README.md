@@ -1,3 +1,5 @@
 # Laravel 5.2 Installation
 
-* Install compser for windows
+1. Install XAMPP
+2. Install composer for windows
+2. 
